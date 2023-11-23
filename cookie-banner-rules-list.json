@@ -5511,6 +5511,22 @@
         "optOut": ".CookiesAlert_cookiesAlert__3qSl1 .Button_button__3Me73",
         "presence": ".CookiesAlert_cookiesAlert__3qSl1"
       }
+    },
+    {
+      "id": "fd481a54-61dd-43fb-9964-b259461d49c3",
+      "domains": ["wolframalpha.com"],
+      "cookies": {
+        "optIn": [
+          {
+            "name": "__cookie_consent",
+            "value": "1"
+          }
+        ]
+      },
+      "click": {
+        "optIn": "._a_yb > button",
+        "presence": "._a_yb"
+      }
     }
   ]
 }
