@@ -7246,6 +7246,15 @@
           }
         ]
       }
+    },
+    {
+      "id": "b2f079a7-2a86-4d1d-9a07-3d743f0c1a06",
+      "domains": ["fedex.com"],
+      "click": {
+        "optOut": ".fxg-gdpr__reject-all-btn",
+        "optIn": ".fxg-gdpr__accept-all-btn",
+        "presence": ".fxg-gdpr"
+      }
     }
   ]
 }
